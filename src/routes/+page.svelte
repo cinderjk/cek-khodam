@@ -1,3 +1,8 @@
+<svelte:head>
+    <title>Cek Khodam</title>
+    <meta name="description" content="Cek Khodam yang selalu menemanimu">
+</svelte:head>
+
 <div class="">
     <section
         class="bg-[url('/kuburan.jpg')] bg-no-repeat bg-cover bg-center bg-gray-700 bg-blend-multiply h-screen">
