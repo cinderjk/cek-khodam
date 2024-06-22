@@ -172,12 +172,12 @@
 
         const result = khodams[Math.floor(Math.random() * khodams.length)];
 
-        if(name == 'fahri' || name == 'fahri pano' || name == 'khoiri' || name == 'Fahri' || name == 'Fahri Pano' || name == 'Khoiri') {
+        if(checkedName == 'FAHRI' || checkedName == 'FAHRI PANO' || checkedName == 'KHOIRI') {
             result.name = 'Greesella Sophina Adhalia ❤';
             result.image = 'cintakuu.jpg';
         }
 
-        if(name == 'lensa' || name == 'ellen' || name == 'lensa ellentika' || name == 'Lensa' || name == 'Ellen' || name == 'Lensa Ellentika') {
+        if(checkedName == 'LENSA' || checkedName == 'ELLEN' || checkedName == 'LENSA ELLENTIKA') {
             result.name = 'Choi Woo-shik ❤';
             result.image = 'cws.png';
         }
