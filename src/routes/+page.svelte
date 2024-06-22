@@ -168,6 +168,70 @@
                 "name": "Beat Lipat",
                 "image": "beat_lipat.png"
             },
+            {
+                "name": "Apin",
+                "image": "apin.png"
+            },
+            {
+                "name": "Boeing 777",
+                "image": "boeing_777.png"
+            },
+            {
+                "name": "Fir'aun",
+                "image": "firaun.png"
+            },
+            {
+                "name": "Jin Ifrit",
+                "image": "jin_ifrit.png"
+            },
+            {
+                "name": "Kiwil",
+                "image": "kiwil.png"
+            },
+            {
+                "name": "Knalpot Mber",
+                "image": "knalpot_mber.png"
+            },
+            {
+                "name": "Komodo",
+                "image": "komodo.png"
+            },
+            {
+                "name": "Kumalala",
+                "image": "kumalala.png"
+            },
+            {
+                "name": "Kunti Bogel",
+                "image": "kunti_bogel.png"
+            },
+            {
+                "name": "Kuntilanak",
+                "image": "kuntilanak.png"
+            },
+            {
+                "name": "Opah",
+                "image": "opah.png"
+            },
+            {
+                "name": "Panci",
+                "image": "panci.png"
+            },
+            {
+                "name": "Pocong Mumun",
+                "image": "pocong_mumun.png"
+            },
+            {
+                "name": "Tokek",
+                "image": "tokek.png"
+            },
+            {
+                "name": "Uncle Muthu",
+                "image": "uncle_muthu.png"
+            },
+            {
+                "name": "Zebra Cross",
+                "image": "zebra_cross.png"
+            },
         ]
 
         const result = khodams[Math.floor(Math.random() * khodams.length)];
